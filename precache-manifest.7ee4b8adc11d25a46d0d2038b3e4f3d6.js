@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/HERE-Hackathon-Laboratoria-CDMX/static/js/runtime~main.ae929c5a.js"
   },
   {
-    "revision": "62af234ce52bf9ee1e81",
-    "url": "/HERE-Hackathon-Laboratoria-CDMX/static/js/main.62af234c.chunk.js"
+    "revision": "24ebb84a58d942f59779",
+    "url": "/HERE-Hackathon-Laboratoria-CDMX/static/js/main.24ebb84a.chunk.js"
   },
   {
     "revision": "8639bbae50e31e3035d6",
     "url": "/HERE-Hackathon-Laboratoria-CDMX/static/js/1.8639bbae.chunk.js"
   },
   {
-    "revision": "62af234ce52bf9ee1e81",
+    "revision": "24ebb84a58d942f59779",
     "url": "/HERE-Hackathon-Laboratoria-CDMX/static/css/main.403142cd.chunk.css"
   },
   {
-    "revision": "bc1df02cf425179866efece5498821db",
+    "revision": "07bc83c20e9051dba1d9a9fde8f33cfb",
     "url": "/HERE-Hackathon-Laboratoria-CDMX/index.html"
   }
 ];
