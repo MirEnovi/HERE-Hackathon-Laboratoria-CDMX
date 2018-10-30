@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/cdmx-2018-06-bc-core-am-burger-queen/precache-manifest.f0a986dca276a97925a49d85d71025f5.js"
+  "/HERE-Hackathon-Laboratoria-CDMX/precache-manifest.15647bd60393762b9950bba570ecf016.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/cdmx-2018-06-bc-core-am-burger-queen/index.html", {
+workbox.routing.registerNavigationRoute("/HERE-Hackathon-Laboratoria-CDMX/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

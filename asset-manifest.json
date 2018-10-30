@@ -1,14 +1,14 @@
 {
-  "main.css": "/cdmx-2018-06-bc-core-am-burger-queen/static/css/main.5ac29eb2.chunk.css",
-  "main.js": "/cdmx-2018-06-bc-core-am-burger-queen/static/js/main.06adb092.chunk.js",
-  "main.js.map": "/cdmx-2018-06-bc-core-am-burger-queen/static/js/main.06adb092.chunk.js.map",
-  "static/js/1.2aa476c4.chunk.js": "/cdmx-2018-06-bc-core-am-burger-queen/static/js/1.2aa476c4.chunk.js",
-  "static/js/1.2aa476c4.chunk.js.map": "/cdmx-2018-06-bc-core-am-burger-queen/static/js/1.2aa476c4.chunk.js.map",
-  "runtime~main.js": "/cdmx-2018-06-bc-core-am-burger-queen/static/js/runtime~main.db300044.js",
-  "runtime~main.js.map": "/cdmx-2018-06-bc-core-am-burger-queen/static/js/runtime~main.db300044.js.map",
-  "static/media/school.png": "/cdmx-2018-06-bc-core-am-burger-queen/static/media/school.bb2d5277.png",
-  "static/css/main.5ac29eb2.chunk.css.map": "/cdmx-2018-06-bc-core-am-burger-queen/static/css/main.5ac29eb2.chunk.css.map",
-  "index.html": "/cdmx-2018-06-bc-core-am-burger-queen/index.html",
-  "precache-manifest.f0a986dca276a97925a49d85d71025f5.js": "/cdmx-2018-06-bc-core-am-burger-queen/precache-manifest.f0a986dca276a97925a49d85d71025f5.js",
-  "service-worker.js": "/cdmx-2018-06-bc-core-am-burger-queen/service-worker.js"
+  "main.css": "/HERE-Hackathon-Laboratoria-CDMX/static/css/main.403142cd.chunk.css",
+  "main.js": "/HERE-Hackathon-Laboratoria-CDMX/static/js/main.62af234c.chunk.js",
+  "main.js.map": "/HERE-Hackathon-Laboratoria-CDMX/static/js/main.62af234c.chunk.js.map",
+  "static/js/1.8639bbae.chunk.js": "/HERE-Hackathon-Laboratoria-CDMX/static/js/1.8639bbae.chunk.js",
+  "static/js/1.8639bbae.chunk.js.map": "/HERE-Hackathon-Laboratoria-CDMX/static/js/1.8639bbae.chunk.js.map",
+  "runtime~main.js": "/HERE-Hackathon-Laboratoria-CDMX/static/js/runtime~main.ae929c5a.js",
+  "runtime~main.js.map": "/HERE-Hackathon-Laboratoria-CDMX/static/js/runtime~main.ae929c5a.js.map",
+  "static/media/aa.png": "/HERE-Hackathon-Laboratoria-CDMX/static/media/aa.acf77f81.png",
+  "static/css/main.403142cd.chunk.css.map": "/HERE-Hackathon-Laboratoria-CDMX/static/css/main.403142cd.chunk.css.map",
+  "index.html": "/HERE-Hackathon-Laboratoria-CDMX/index.html",
+  "precache-manifest.15647bd60393762b9950bba570ecf016.js": "/HERE-Hackathon-Laboratoria-CDMX/precache-manifest.15647bd60393762b9950bba570ecf016.js",
+  "service-worker.js": "/HERE-Hackathon-Laboratoria-CDMX/service-worker.js"
 }
